@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Mangesh
+Build-Jdk: 16.0.2
+Implementation-Title: EMS
+Implementation-Version: 1.1
+Implementation-Vendor-Id: com.durga
+Implementation-URL: https://spring.io/projects/spring-boot/Spring_Securi
+ ty_And_Session_Management
+Created-By: Maven Integration for Eclipse
+
